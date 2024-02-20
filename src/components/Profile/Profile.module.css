@@ -1,11 +1,10 @@
 /* Profile.module.css */
  .profile {
-    margin: 0 auto;
     border: 5px solid #212121;
     border-radius: 15px;
     text-align: center;
     padding-top: 20px;
-    width: 400px;
+    width: 300px;
     background-color: #FAFAFA;
   }
  /* 
@@ -75,7 +74,6 @@
 
   .statLabel {
     font-size: 20px;
-    font-weight: bold;
   }
   
   .statValue {
